@@ -3,8 +3,8 @@
 def main():
   print("main func")
 
-def main2():
-  print("main 2")
+def main22():
+  print("main 22")
 
 def two():
   print("two mubeen")

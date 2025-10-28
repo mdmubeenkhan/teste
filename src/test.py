@@ -1,4 +1,4 @@
 
 
-def add22(a,b):
-  return a+b+22
+def add25(a,b):
+  return a+b+25
