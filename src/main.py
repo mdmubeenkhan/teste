@@ -3,11 +3,14 @@
 def main():
   print("main func")
 
+def two():
+  print("two mubeen")
+
 def a_one():
   print("ameen-a")
 
-def two():
-  print("tw0")
+# def two():
+#   print("tw0")
 
 def three():
   print("three")
